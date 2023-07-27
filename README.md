@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/namoo1818"><b>이민지</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>김연화</b></a></td>
+    <td align="center"><a href="https://github.com/myeon0109"><b>김연화</b></a></td>
     <td align="center"><a href="https://github.com/"><b>배민지</b></a></td>
     <td align="center"><a href="https://github.com/"><b>서민주</b></a></td>
   </tr>
