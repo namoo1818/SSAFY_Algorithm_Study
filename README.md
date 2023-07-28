@@ -30,14 +30,14 @@
  <tr>
     <td align="center"><a href="https://github.com/namoo1818"><img src="https://avatars.githubusercontent.com/namoo1818" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/myeon0109"><img src="https://avatars.githubusercontent.com/myeon0109" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/MJBae327"><img src="https://avatars.githubusercontent.com/MJBae327" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/myeon0109"><img src="https://avatars.githubusercontent.com/myeon0109" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/namoo1818"><b>이민지</b></a></td>
     <td align="center"><a href="https://github.com/myeon0109"><b>김연화</b></a></td>
-    <td align="center"><a href="https://github.com/"><b>배민지</b></a></td>
-    <td align="center"><a href="https://github.com/"><b>서민주</b></a></td>
+    <td align="center"><a href="https://github.com/MJBae327"><b>배민지</b></a></td>
+    <td align="center"><a href="https://github.com/myeon0109"><b>서민주</b></a></td>
   </tr>
 </table>
 
