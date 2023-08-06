@@ -1,9 +1,7 @@
-n = int(input())
-cnt = n//500
-n = n%500
-cnt += n//100
-n = n%100
-cnt += n//50
-n = n%50
-cnt += n//10
+n = int(input()) # 거스름돈
+cnt = 0 # 총 동전 개수
+arr = [500,100,50,10]
+for i in arr:
+    cnt += n//i # 동전 개수 추가
+    n %= i # 남은 거스름돈
 print(cnt)
